@@ -19,6 +19,8 @@ sdoro {검색어}
 
 검색 결과로 도로명 주소 목록이 나타나고 선택한 도로명 주소를 Command + C로 복사할 수 있습니다. 
 
+<img src="https://github.com/idreamer/streetfinderforalfredapp/blob/e50047c344a8a2afdb7a9978221c0696063722b5/public/sdoroe.png" />
+
 2. 한국어 도로명 주소를 영문 도로명 주소로 변환 
 한국어 도로명 주소를 영문 도로명 주소로 변환할 수 있습니다. 
 
