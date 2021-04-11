@@ -6,6 +6,7 @@
 스트리트 파인더는 맥용 앱 [알프레드 워크플로우](https://www.alfredapp.com)입니다. 
 스트리트 파인더는 두 가지 기능을 제공합니다. 
 
+<img src="https://github.com/idreamer/streetfinderforalfredapp/blob/19beaf4488e7374cd85a7e94a8513e52f1d3f039/public/sdoro.png" />
 
 1. 구 주소를 이용해서 도로명 주소 검색 
 옛 주소 정보를 이용해서 도로명 주소를 검색할 수 있습니다.
