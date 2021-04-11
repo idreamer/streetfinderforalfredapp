@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/woongxyz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 [다운로드]()
 
 스트리트 파인더는 맥용 앱 알프레드 워크플로우입니다. 
