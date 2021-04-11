@@ -1,8 +1,9 @@
 <a href="https://www.buymeacoffee.com/woongxyz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-[다운로드](https://github.com/idreamer/streetfinderforalfredapp/blob/master/public/StreetFinder_0_0_1.zip)
+# Street Finder | 한국 도로명주소/영문 검색
+## [다운로드](https://github.com/idreamer/streetfinderforalfredapp/blob/master/public/StreetFinder_0_0_1.zip)
 
-스트리트 파인더는 맥용 앱 알프레드 워크플로우입니다. 
+스트리트 파인더는 맥용 앱 [알프레드 워크플로우](https://www.alfredapp.com)입니다. 
 스트리트 파인더는 두 가지 기능을 제공합니다. 
 
 1. 구 주소를 이용해서 도로명 주소 검색 
